@@ -1,7 +1,5 @@
 # Bees in the Trap Game
 
-![Bees in the Trap Game](https://github.com/SandiRadu/beesinthetrap-game/raw/main/game_screenshot.png)
-
 ## Introduction
 
 Welcome to the "Bees in the Trap" game! This simple console-based game allows you to play a survival game against a hive of bees. The goal is to eliminate the bees and emerge victorious, or risk getting stung and lose the game.
@@ -37,10 +35,10 @@ Welcome to the "Bees in the Trap" game! This simple console-based game allows yo
 
 ### Game Rules
 
-The game involves attacking the hive of bees and surviving as long as possible.
-You can manually hit the hive or let the game run automatically.
-Be careful! The hive strikes back, and you may get stung by the bees.
-The game ends when you choose to exit or when your character's health points reach zero.
+- The game involves attacking the hive of bees and surviving as long as possible.
+- You can manually hit the hive or let the game run automatically.
+- Be careful! The hive strikes back, and you may get stung by the bees.
+- The game ends when you choose to exit or when your character's health points reach zero.
 
 ### Command-Line Options
 
