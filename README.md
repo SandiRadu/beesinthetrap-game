@@ -42,7 +42,7 @@ Welcome to the "Bees in the Trap" game! This simple console-based game allows yo
 
 ### Command-Line Options
 
-php game.php hit: Manually hit the hive.
-php game.php auto: Automatically play the game until completion.
-php game.php exit: Exit the game.
+- php game.php hit: Manually hit the hive.
+- php game.php auto: Automatically play the game until completion.
+- php game.php exit: Exit the game.
 
